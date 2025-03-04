@@ -4,13 +4,13 @@ Hi 👋 My name is Cornelius Oaikhienan
 Web and Mobile App Developer
 ----------------------------
 
-🚀 Passionate about crafting seamless digital experiences, I specialize in building scalable web applications, high-performance mobile apps, and robust backend systems. With a strong foundation in JavaScript, React, React Native, Node.js, and modern cloud services, I love turning ideas into reality through clean, efficient, and maintainable code.
+🚀 Passionate about crafting seamless digital experiences, I specialize in building scalable web applications, high-performance mobile apps, and robust backend systems. With a strong foundation in JavaScript, React, React Native, Nextjs, Node.js, Nestjs and modern cloud services, I love turning ideas into reality through clean, efficient, and maintainable code.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Explore](http://techbycornel.vercel.app)
 * ✉️  You can contact me at [corneliusedos@gmail.com](mailto:corneliusedos@gmail.com)
 * 🧠  I'm learning Firebase
-* 🤝  I'm open to collaborating on MERN Stack Projects
+* 🤝  I'm open to collaborating on Web and Mobile App Projects
 
 <a href="https://www.x.com/techbycornel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/techbycornel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
